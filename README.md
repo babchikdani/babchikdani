@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dani Babchik, a 2nd year Compuer Science student at the Technion.
-- 👀 I’m interested in learning 
+- 👀 I’m interested in learning cyber-security.
 - 🌱 I’m currently learning Python and Kali Linux.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -> babchikdani@gmail.com
